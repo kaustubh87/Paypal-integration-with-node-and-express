@@ -1,0 +1,30 @@
+{
+  "name": "paypal-demo",
+  "version": "1.0.0",
+  "description": "Paypal integration with node.js and express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh87/Paypal-integration-with-node-and-express.git"
+  },
+  "keywords": [
+    "Paypal",
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Kaustubh Vinzanekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh87/Paypal-integration-with-node-and-express/issues"
+  },
+  "homepage": "https://github.com/kaustubh87/Paypal-integration-with-node-and-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.10"
+  }
+}
